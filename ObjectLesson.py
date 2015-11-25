@@ -32,3 +32,5 @@ print("\nId(r)\n" + str(id(r)))
 print("\nId(s)\n" + str(id(s)))
 s[1] = 78
 print("\ns[1] = 78\nprint r\n" + str(r))
+
+# tests commit
