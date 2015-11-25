@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26404a6d-66c7-4ab4-a870-3ba9075bd6c4" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\mattc_000\Desktop\PythonFundamentals\Objects\ObjectLesson.py" afterPath="$PROJECT_DIR$/Objects/ObjectLessonOne.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Objects/ObjectLessonTwo.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PythonFundamentals.iws" />
@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordsModule.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordsModule.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Introduction/WordsModule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6729776">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectLessonTwo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Objects/ObjectLessonTwo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.029259896">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -65,6 +75,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ObjectLesson.py" />
+        <option value="$PROJECT_DIR$/Objects/ObjectLessonTwo.py" />
       </list>
     </option>
   </component>
@@ -72,8 +83,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="21" />
+    <option name="x" value="208" />
+    <option name="y" value="22" />
     <option name="width" value="1526" />
     <option name="height" value="946" />
   </component>
@@ -333,14 +344,20 @@
       <option name="project" value="LOCAL" />
       <updated>1448419319596</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Rename Object to Object Lesson One">
+      <created>1448419525073</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448419525073</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="21" width="1526" height="946" extended-state="0" />
-    <editor active="false" />
+    <frame x="208" y="22" width="1526" height="946" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15120968" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="915" y="75" width="319" height="837" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15120968" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="915" y="75" width="319" height="837" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -368,7 +385,8 @@
     <MESSAGE value="test commit from pycharm" />
     <MESSAGE value="revert" />
     <MESSAGE value="Refactor into folder structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor into folder structure" />
+    <MESSAGE value="Rename Object to Object Lesson One" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename Object to Object Lesson One" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -385,8 +403,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Introduction/WordsModule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6729776">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Objects/ObjectLessonTwo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029259896">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
       </provider>
